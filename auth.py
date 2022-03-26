@@ -1,2 +1,2 @@
 def registration():
-	functionality for registering user with username,firstname,email,password,dob
+	functionality for registering user with username,firstname,email,password,dob,gender
